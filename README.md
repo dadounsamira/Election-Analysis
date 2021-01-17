@@ -32,10 +32,20 @@ A colorado board of election employee *Tom* was giving the task to audit the res
  Diana DeGette won the election by a huge percentage of the votes 
  
 
-
-
-
 Results are also downloadable ![here](/analysis/election_analysis.txt)
+ 
+
+## Challenge overview and summary
+
+This analysis was hard on two level :
+
+  Navigating the git bash, python and git hub was very challenging
+  
+  Indentation was key to succeed in this task.
+  
+
+
+
 
 
 
