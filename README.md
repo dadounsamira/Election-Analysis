@@ -35,7 +35,7 @@ A colorado board of election employee *Tom* was giving the task to audit the res
 
 
 
-Results are also downloadable !here](/analysis/election_analysis.txt)
+Results are also downloadable !here](/Election-Analysis/analysis/election_analysis.txt)
 
 
 
