@@ -31,24 +31,11 @@ A colorado board of election employee *Tom* was giving the task to audit the res
  
  Diana DeGette won the election by a huge percentage of the votes 
  
- Election Results
-==========================
-Total Votes: 369,711
-==========================
-County Votes:
-Charles Casper Stockham: 23.0% (85,213)
-Diana DeGette: 73.8% (272,892)
-Raymon Anthony Doane: 3.1% (11,606)
--------------------------
-Winner: Diana DeGette
-Winning Vote Count: 272,892
-Winning Percentage: 73.8%
--------------------------
 
 
 
 
-![here](/Resources/VBA_Challenge_2018.png)
+Results are also downloadable ![here](/analysis/election_analysis.txt)
 
 
 
