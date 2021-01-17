@@ -1,6 +1,8 @@
 # Election-Analysis
 
+
 ## Overview of project
+
 A colorado board of election employee *Tom* was giving the task to audit the result of US congressional of Colorado, the task was to :
  1. Calculate the total number of votes cast.
  2. Get a complete list of candidates who received votes.
@@ -10,8 +12,8 @@ A colorado board of election employee *Tom* was giving the task to audit the res
  
  ## Resources
  
- -Data source : Election_results.csv
- -Software : Python 3.6.1. Visual Studio Code, 1.38.1
+  #Data source : Election_results.csv
+  #Software : Python 3.6.1. Visual Studio Code, 1.38.1
 
 
 ## Results
