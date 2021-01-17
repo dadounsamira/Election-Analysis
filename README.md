@@ -10,11 +10,12 @@ A colorado board of election employee *Tom* was giving the task to audit the res
  
  ## Resources
  
-Included the source of this database [here](/VBA_Challenge.xlsm.xlsm)
+ Data source : Election_reslts.csv
+ Software : Python 3.6.1. Visual Studio Code, 1.38.1
 
 
 ## Results
-
+[here](/VBA_Challenge.xlsm.xlsm)
 ### the stock performance in  2017
 
  At first look the table below reveals that all stocks (except TERP) performed well and reflected  positive average return. DQ stock outperformed all the other stock.
